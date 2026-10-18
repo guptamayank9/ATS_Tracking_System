@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import api from "../api";
 import { STAGES, STAGE_COLORS } from "../constants";
 
-export default function Dashboard() {
+export default function DashboardPage() {
   const [data, setData] = useState(null);
   const [error, setError] = useState("");
 
