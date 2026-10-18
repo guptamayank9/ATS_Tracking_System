@@ -88,7 +88,7 @@ ATS_Tracking_System/
 │           ├── Login.jsx
 │           ├── Candidates.jsx        # List, search, filters, CRUD
 │           ├── Board.jsx             # Kanban board
-│           └── Dashboard.jsx         # Metrics
+│           └── DashboardPage.jsx         # Metrics
 └── server/
     ├── .env
     ├── index.js                      # App entry point
