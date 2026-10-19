@@ -8,9 +8,9 @@ Built as a full stack assignment with the MERN stack (MongoDB, Express, React, N
 
 | | |
 |---|---|
-| Live app | `https://your-app.vercel.app` |
-| Backend API | `https://your-api.onrender.com/api` |
-| Demo video | `https://your-demo-video-link` |
+| Live app | `https://ats-tracking-system-1.onrender.com` |
+| Backend API | `https://ats-tracking-system-j24n.onrender.com/api/` |
+| Demo video | `https://drive.google.com/file/d/1iTinlV_5WTSKIWeL3cLatH8cRlSYyYFI/view?usp=sharing` |
 
 > The backend runs on a free Render instance, so the first request after a period of inactivity can take 30 to 60 seconds while it wakes up.
 
