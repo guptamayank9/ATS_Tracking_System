@@ -1,4 +1,4 @@
-# Mini ATS (Applicant Tracking System)
+# Mini ATS (Applicant Tracking System) --> Assignment
 
 A lightweight Applicant Tracking System to manage candidates, move them through hiring stages, search and filter them, and track hiring metrics on a dashboard.
 
